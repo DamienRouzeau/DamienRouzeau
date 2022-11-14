@@ -1,4 +1,4 @@
 - Hi, I’m @DamienRouzeau
 - I’m interested in Game developpement
 - I’m currently creating a Video Game Casual
-- You can reach me on my mail : damienrzu@gail.com
+- You can reach me on my mail : damienrzu@gmail.com
